@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 **About Me**
-- 🎓 **B.Tech. in Computer Engineering** at **Marwadi University, Rajkot** (**CGPA: 9.04/10**).
+- 🎓 **B.Tech. in Computer Engineering** at **Marwadi University, Rajkot** .
 - 💡 Passionate about **Web Development, AI/ML, and Blockchain Technologies**.
 - 🏆 **Hackathon Winner** (*Hack The Mountain, WebHack, etc.*).
 - 🌱 Learning **Data Structures & Algorithms (DSA)** for LeetCode.
@@ -96,9 +96,4 @@
 
 ---
 
-### ⭐ **If you like my work, consider giving a star to my repositories!**  
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" />
-</p>
