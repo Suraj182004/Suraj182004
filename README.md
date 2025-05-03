@@ -16,20 +16,21 @@
 ---
 
 ## 🌟 **About Me**
-- 🎓 **B.Tech. in Computer Engineering** at **Marwadi University, Rajkot** .
-- 💡 Passionate about **Web Development, AI/ML, and Blockchain Technologies**.
-- 🏆 **Hackathon Winner** (*Hack The Mountain, WebHack, etc.*).
-- 🌱 Learning **Data Structures & Algorithms (DSA)** for LeetCode.
-- 📫 Reach me at **surajyaligar2004@gmail.com**.
+- 🎓 Pursuing **B.Tech. in Computer Engineering** at **Marwadi University, Rajkot**.
+- 💡 Enthusiastic about **Web Development, AI/ML, and Blockchain Technologies**.
+- 🏆 **Hackathon Winner** (*Hack The Mountain, WebHack,* and more).
+- 📚 Currently learning **Data Structures & Algorithms (DSA)** and solving problems on LeetCode.
+- 📫 Reach me at: **surajyaligar2004@gmail.com**
 
 ---
 
 ## 🛠 **Tech Stack & Tools**
+
 <table>
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,dart" />
     </td>
   </tr>
   <tr>
@@ -41,13 +42,13 @@
   <tr>
     <td align="center"><b>Backend & Databases</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,postgres" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools & Others</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,graphql,jwt" />
+      <img src="https://skillicons.dev/icons?i=docker,git,graphql,jwt,postman,vercel" />
     </td>
   </tr>
 </table>
@@ -55,6 +56,7 @@
 ---
 
 ## 📈 **GitHub Stats**
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suraj182004&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj182004&theme=black" />
@@ -63,6 +65,7 @@
 ---
 
 ## 🔥 **Top Languages**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj182004&layout=compact&theme=dark" />
 </p>
@@ -70,6 +73,7 @@
 ---
 
 ## 📌 **Top Repositories**
+
 <p align="center">
   <a href="https://github.com/Suraj182004/Saaraansh">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj182004&repo=Saaraansh&theme=dark" />
@@ -82,6 +86,7 @@
 ---
 
 ## 🔗 **Connect With Me**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-yaligar-83babb249/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -95,5 +100,3 @@
 </p>
 
 ---
-
-
