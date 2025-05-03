@@ -48,7 +48,7 @@
   <tr>
     <td align="center"><b>Tools & Others</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,graphql,jwt,postman,vercel" />
+      <img src="https://skillicons.dev/icons?i=docker,git,graphql,postman,vercel,aws" />
     </td>
   </tr>
 </table>
