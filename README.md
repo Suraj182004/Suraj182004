@@ -9,7 +9,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Suraj182004">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF9900&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open-Source+Contributor;Blockchain+Explorer;Tech+Lover" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF9900&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Blockchain+Explorer;Tech+Lover" />
   </a>
 </p>
 
